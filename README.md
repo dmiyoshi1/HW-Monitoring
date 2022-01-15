@@ -7,3 +7,6 @@ The Redfish API will be used for HW monitoring
 Useful URLs:
 
 * [HPE Redfish Developer site](https://developer.hpe.com/platform/ilo-restful-api/home/)
+
+There is a Redfish simulator, however it may not be fully implemented.
+
